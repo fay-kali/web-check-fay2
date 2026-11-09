@@ -45,6 +45,7 @@
     "express": "^5.3.0",
     "express-rate-limit": "^8.7.1",
     "framer-motion": "^14.6.0",
+    "nodejs-traceroute": "^2.0.1",
     "prop-types": "^15.8.1",
     "psl": "^1.15.0",
     "puppeteer": "24.43.1",
